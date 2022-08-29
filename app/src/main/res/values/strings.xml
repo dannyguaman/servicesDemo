@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reproductor</string>
+    <string name="defaultURL">https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3</string>
+    <string name="hintprompt">Por favor, presione el botón de acción flotante para agregar un URL</string>
+    <string name="enter_url">Ingrese el URL (o presione Enter para agregar el URL por defecto)</string>
+    <string name="ok_button">OK</string>
+</resources>

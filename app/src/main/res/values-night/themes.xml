@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Reproductor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/cardview_shadow_end_color</item>
+        <item name="colorOnPrimary">@color/cardview_light_background</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/cardview_shadow_start_color</item>
+        <item name="colorSecondaryVariant">@color/design_default_color_primary_variant</item>
+        <item name="colorOnSecondary">@color/design_default_color_error</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
